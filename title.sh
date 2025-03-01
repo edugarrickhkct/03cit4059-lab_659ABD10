@@ -7,3 +7,7 @@ function stitle(){
     TITLE="\[\e]0;$*\a\]"
     PS1="${PS1_BACK}${TITLE}"
 }
+
+# PS1=$PS1"\[\e]0;lab02-firewall-1\a\]"
+# PS1=$PS1"\[\e]0;lab02-linux-1\a\]"
+# PS1=$PS1"\[\e]0;lab02-linux-2\a\]"
